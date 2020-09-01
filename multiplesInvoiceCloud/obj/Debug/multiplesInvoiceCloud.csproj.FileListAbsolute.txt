@@ -1,0 +1,7 @@
+C:\Users\Christian\Desktop\multiplesInvoiceCloud\multiplesInvoiceCloud\bin\Debug\multiplesInvoiceCloud.exe.config
+C:\Users\Christian\Desktop\multiplesInvoiceCloud\multiplesInvoiceCloud\bin\Debug\multiplesInvoiceCloud.exe
+C:\Users\Christian\Desktop\multiplesInvoiceCloud\multiplesInvoiceCloud\bin\Debug\multiplesInvoiceCloud.pdb
+C:\Users\Christian\Desktop\multiplesInvoiceCloud\multiplesInvoiceCloud\obj\Debug\multiplesInvoiceCloud.csprojAssemblyReference.cache
+C:\Users\Christian\Desktop\multiplesInvoiceCloud\multiplesInvoiceCloud\obj\Debug\multiplesInvoiceCloud.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Desktop\multiplesInvoiceCloud\multiplesInvoiceCloud\obj\Debug\multiplesInvoiceCloud.exe
+C:\Users\Christian\Desktop\multiplesInvoiceCloud\multiplesInvoiceCloud\obj\Debug\multiplesInvoiceCloud.pdb
