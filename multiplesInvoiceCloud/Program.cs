@@ -30,8 +30,8 @@ namespace multiplesInvoiceCloud
                 if ((i % 5) == 0) flagFive = true; //is this a multiple of 5
 
                 if (flagThree && !flagFive) Console.WriteLine("Invoice"); //n(1)
-                if (flagFive && !flagThree) Console.WriteLine("Cloud");
-                if ((flagThree && flagFive)) Console.WriteLine("InvoiceCloud");
+                else if (!flagThree && flagFive) Console.WriteLine("Cloud");
+                else if (flagThree && flagFive) Console.WriteLine("InvoiceCloud");
                 else Console.WriteLine(i);
             }
 
